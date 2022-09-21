@@ -6,7 +6,7 @@
     font-size: 32pt !important;
 }
 
-@media (max-width: 476px){
+@media (max-width: 376px){
     .display-t {
         margin-top: 50px;
     }
