@@ -1,0 +1,21 @@
+.wedding-title {
+    font-size: 22pt !important;
+}
+
+.wedding-name {
+    font-size: 82pt !important;
+}
+
+@media (max-width: 376px){
+    .display-t {
+        margin-top: 50px;
+    }
+
+    .wedding-title {
+        font-size: 15pt !important;
+    }
+
+    .wedding-name {
+        font-size: 40pt !important;
+    }
+}
