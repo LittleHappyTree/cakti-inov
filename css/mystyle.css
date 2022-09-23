@@ -1,5 +1,14 @@
-@media (min-width: 378px){
-    .display-t {
-        margin-top: 10px;
-    }
+div.simply-section{
+    height: 75px !important;
+    width: 75px !important;
+}
+
+div span.simply-amount {
+    line-height: 15px;
+    margin-top: -18px;
+    padding-bottom: 5px;
+}
+
+.simply-countdown > .simply-section .simply-word {
+    font-size: 8pt !important;
 }
