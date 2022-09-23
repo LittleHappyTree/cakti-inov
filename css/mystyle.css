@@ -1,5 +1,5 @@
-@media (max-width: 376px){
+@media (min-width: 378px){
     .display-t {
-        margin-top: 50px;
+        margin-top: 10px;
     }
 }
